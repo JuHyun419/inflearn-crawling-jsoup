@@ -1,0 +1,17 @@
+
+F
+java:S1068"0Remove this unused "crawlingList" private field.(Ü√ÇÍ
+D
+java:S1144V".Remove this unused private "stripHtml" method.(ªü»º
+G
+java:S1144["2Remove this unused private "removeBracket" method.(Ø≤À
+I
+java:S1068"3Remove this unused "LAST_PAGE_INDEX" private field.(ÜÄõ—
+j
+java:S5850\"TGroup parts of the regex together to make the intended operator precedence explicit.(ù›Ôô
+B
+java:S1068",Remove this unused "PLATFORM" private field.(ñ∑è‹
+[
+java:S1854 "ERemove this useless assignment to local variable "thumbnailElements".(“≈ë∑
+L
+java:S1481 "6Remove this unused "thumbnailElements" local variable.(“≈ë∑
