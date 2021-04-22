@@ -20,8 +20,8 @@ public class InflearnModel {
     private int viewCount;      // 수강자 수
     private String platform;    // 플랫폼 이름
     private int sessionCount;   // 강의 세션 개수
-    private String currency;    //  원화
-    private String description;
-    private String skills;
+    private String currency;    // 원화
+    private String description; // 강의 부연설명
+    private String skills;      // 강의 스택
 
 }
